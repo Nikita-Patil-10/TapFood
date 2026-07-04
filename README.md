@@ -1,3 +1,11 @@
+<img width="1920" height="1080" alt="Screenshot (1326)" src="https://github.com/user-attachments/assets/9fb8b09f-f4ec-496d-baa8-ef24be776eb2" />
+<img width="1920" height="1080" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/dac885c9-66dc-4fd5-b25c-f76403c6332b" />
+<img width="1920" height="1080" alt="Screenshot (1324)" src="https://github.com/user-attachments/assets/8f180a47-54b1-45ce-b16d-dda9c8d89575" />
+<img width="1920" height="1080" alt="Screenshot (1323)" src="https://github.com/user-attachments/assets/e4e449c2-745e-4c27-97b9-f4ea757429a3" />
+<img width="1920" height="1080" alt="Screenshot (1322)" src="https://github.com/user-attachments/assets/f1817119-42a0-4a52-a615-5bb277fb792b" />
+<img width="1920" height="1080" alt="Screenshot (1321)" src="https://github.com/user-attachments/assets/d1d4dc0e-8ebd-4b38-a0cd-b65d37a0c7bb" />
+
+
 # 🍔 TapFood — Food Delivery Web Application
 
 A full-stack food delivery web application built with **Core Java**, inspired by real-world food delivery platforms. TapFood lets users browse restaurants, search for dishes, place orders, and track them in real time — with a complete admin panel to manage the platform.
